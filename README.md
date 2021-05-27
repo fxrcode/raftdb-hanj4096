@@ -1,5 +1,9 @@
 raftdb
 ======
+* from geekbang course: <分布式协议与算法实战> https://time.geekbang.org/column/intro/279
+    * https://www.yuque.com/hxzhouh/lcgsuz/lu71ec
+    * <基于Raft的分布式KV系统开发实战>
+====
 
 raftdb is a simple distributed key value store based on the Raft consensus protocol. It can be run on Linux, OSX, and Windows.
 
